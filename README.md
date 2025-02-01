@@ -1,4 +1,3 @@
-
 # Generative AI for Face Anonymization
 
 ## Overview
@@ -30,6 +29,9 @@ As AI technologies increasingly permeate the field of image generation, ensuring
   - Python 3.x
   - Deep learning libraries (TensorFlow or PyTorch, as per your implementation)
   - Common libraries like NumPy, scikit-learn, Pillow, and Matplotlib.
+
+## Further Reading
+For more detailed information about the project, including background, methodologies, and detailed analyses, please refer to the [Final Report PDF](./Final%20Report.pdf) available in this repository.
 
 ## How to Contribute
 - Interested in contributing? Please submit an issue or pull request with your suggestions or enhancements.
